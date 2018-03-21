@@ -1,0 +1,16 @@
+Makefile
+build/*
+*.eep
+*.elf
+*.lss
+*.lst
+*.map
+*.sym
+*.xcodeproj
+*.hex
+*.o
+runavarice.*
+.dep
+README.htm
+WebServer_SPI_Log
+
